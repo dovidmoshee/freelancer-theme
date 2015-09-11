@@ -1,5 +1,1 @@
-Branch for demo purposes only.
-
-#### Do not use it for your projects
-
-#### Use the MASTER branch instead
+### My site hosted on the git hub for free. Cuz free is good.
