@@ -9,7 +9,9 @@ body {
 }
 
 p {
+    font-family: 'VT323', monospace;
     font-size: 20px;
+
 }
 
 p.small {
@@ -31,7 +33,7 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     font-family: 'PT Serif', serif;
     font-weight: 700;
 }
